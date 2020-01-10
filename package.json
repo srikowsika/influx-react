@@ -1,0 +1,19 @@
+{
+  "name": "influx-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csvjson-csv2json": "^5.0.6",
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "nodemon": "^1.19.4"
+  }
+}
